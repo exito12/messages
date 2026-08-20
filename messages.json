@@ -1,15 +1,9 @@
 {
-  "messages": [
+  "messages": [    
     {
       "id": 1,
-      "title": "🎬 NUEVO CONTENIDO DISPONIBLE",
-      "body": "Hemos agregado 30 nuevas películas y 15 series. ¡Disfruta!",
-      "date": "2026-08-18"
-    },
-    {
-      "id": 2,
-      "title": "⚙️ MANTENIMIENTO PROGRAMADO",
-      "body": "El servidor estará en mantenimiento el 20 de agosto de 2:00 a 4:00 AM",
+      "title": "⚙️ 🎬 PERIODO DE PRUEBA",
+      "body": "Aplicación creada por Juan Pablo Vasquez y por ahora estará en periodo de prueba. DISFRUTENLA",
       "date": "2026-08-19"
     }
   ]
